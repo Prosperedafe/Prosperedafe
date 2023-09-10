@@ -1,7 +1,7 @@
 Hi there 👋
 
 Welcome to my profile,
-<h1>I'm Prosper Edafe</h1>
+<h1 style="font-size: 45px">I'm Prosper Edafe</h1>
 
 I'm a Frontend Developer.
 
